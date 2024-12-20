@@ -9,3 +9,10 @@ let delta
 let scene = 'Title'
 let state = ''
 let menu = false
+
+let varSave = {
+}
+
+let wave
+let player
+let board

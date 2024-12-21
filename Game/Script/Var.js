@@ -13,6 +13,6 @@ let menu = false
 let varSave = {
 }
 
-let wave
+let level
 let player
-let board
+let field

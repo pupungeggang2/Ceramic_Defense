@@ -8,6 +8,8 @@ function main() {
 
     window.addEventListener('mouseup', mouseUp, false)
 
+    imageLoad()
+
     gameFrameCurrent = Date.now()
     gameFramePrevious = Date.now() - 16
     gameLoop = requestAnimationFrame(loop)
